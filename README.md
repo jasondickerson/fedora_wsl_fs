@@ -2,7 +2,7 @@
 
 ## Description
 
-This project creates a Fedora Distribution Filesystem TAR Archive which can be imported into WSL 2.  The packages installed support Ansible Development using Fedora on WSL 2.  
+This project creates a Fedora Distribution Filesystem TAR Archive which can be imported into WSL 2.  The packages installed support Ansible Development using Fedora on WSL 2.  For more information on running Ansible via Fedora on WSL see [ansible_wsl](https://github.com/jasondickerson/ansible_wsl).  
 
 ## How to use this repository
 
